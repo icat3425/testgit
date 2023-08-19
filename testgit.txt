@@ -2,3 +2,4 @@ testgit testgit
 
 test2 test2 ...........
 yeni brach 
+yeni brach revision 4
